@@ -37,12 +37,6 @@ IBM Watson AI SDK
 TensorFlow
 
 ## Project Structure
-Performance-_of-_Watson-AI-with-_Big-Data/
-│-- data/                 # Dataset folder
-│-- notebooks/            # Jupyter Notebooks
-│-- scripts/              # Python scripts for execution
-│-- results/              # Performance evaluation results
-│-- README.md             # Project documentation
+echo "# Performance Evaluation of Watson AI with Big Data" > README.md
 
-│-- requirements.txt      # Dependencies  
 
