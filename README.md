@@ -37,6 +37,12 @@ IBM Watson AI SDK
 TensorFlow
 
 ## Project Structure
-echo "# Performance Evaluation of Watson AI with Big Data" > README.md
+Performance-_of-_Watson-AI-with-_Big-Data/
+│-- data/
+│-- notebooks/
+│-- scripts/
+│-- results/
+│-- README.md
+│-- requirements.txt
 
 
