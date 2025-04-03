@@ -36,13 +36,6 @@ IBM Watson AI SDK
 
 TensorFlow
 
-## Project Structure
-Performance-_of-_Watson-AI-with-_Big-Data/
-│-- data/
-│-- notebooks/
-│-- scripts/
-│-- results/
-│-- README.md
-│-- requirements.txt
+
 
 
