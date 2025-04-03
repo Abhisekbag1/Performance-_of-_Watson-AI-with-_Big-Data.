@@ -35,3 +35,14 @@ Jupyter Notebook / Google Colab
 IBM Watson AI SDK
 
 TensorFlow
+
+## Project Structure
+Performance-_of-_Watson-AI-with-_Big-Data/
+│-- data/                 # Dataset folder
+│-- notebooks/            # Jupyter Notebooks
+│-- scripts/              # Python scripts for execution
+│-- results/              # Performance evaluation results
+│-- README.md             # Project documentation
+
+│-- requirements.txt      # Dependencies  
+
